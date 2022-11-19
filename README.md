@@ -8,5 +8,5 @@ Owling Protocol brings a new way to collect user information, rewarding the best
 ## [Frontend](https://github.com/OwlingLabs/owling_front)
 
 # Interacting with the app 
-## [NEAR Mainnet](https://owling-front.vercel.app/)
+## [NEAR Mainnet Deployment](https://owling-front.vercel.app/)
 
