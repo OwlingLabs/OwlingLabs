@@ -4,9 +4,12 @@ Owling Protocol brings a new way to collect user information, rewarding the best
 
 # Project structure 📡
 ## [Core Smart Contract](https://github.com/OwlingLabs/owling-protocol)
+Create forms and save, calculate final rewards, emit logs and save answers 
+## [NFT Smart Contract](https://github.com/OwlingLabs/owlling_NFT) 
+Send and mint the rewards 
 ## [Node in The Graph Protocol](https://github.com/OwlingLabs/owling-graph)
+Catch logs and save the data for easy data query
 ## [Frontend](https://github.com/OwlingLabs/owling_front)
-
+Interact with the contract and see statistics from your forms
 # Interacting with the app 
 ## [NEAR Mainnet Deployment](https://owling-front.vercel.app/)
-
